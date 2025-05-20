@@ -49,7 +49,7 @@ The ERD is available as one of the file commits to the repo named Database ERD. 
 
 This repo contains one `.sql` file:
 
-- `clinic-booking-system.sql`:  
+- `clinic-booking-system-database.sql`:  
   Contains **table creation**, **constraints**, and **sample inserts** for development/testing.
 
 ---
